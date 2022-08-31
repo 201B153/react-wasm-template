@@ -1,6 +1,6 @@
 # React-WASM template
 
-- This is the repo shows how to initiate the basic str app for react-wasm app.
+- This repo shows how to initiate the basic str app for react-wasm app.
 
 # Installation
 
